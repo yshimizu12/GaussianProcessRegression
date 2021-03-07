@@ -1,6 +1,7 @@
 # GaussianProcessRegression
 
-This program demonstrates Gaussian process regression using python. All comments in the code are written in Japanese.
+This program demonstrates Gaussian process regression using python. 
+All comments in the code are written in Japanese.
 
 Code: demo_of_gaussian_process_regression.ipynb
 
